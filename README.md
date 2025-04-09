@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on quadcopter drone in C++/Ardino<br>🤝 I’m looking for help with Rust <br>🌱 I’m currently learning Rust, Javascript and Qwik<br> 😄 Pronouns: him <br>🤖 I'm also interested in robotics and control of embedded systems
+🔭 I’m currently working on quadcopter drone in C++/Ardino<br>🤝 I’m looking for help with Rust <br>🌱 I’m currently learning Rust, Javascript and Qwik<br>🤖 I'm also interested in robotics and control of embedded systems
+
 
 
 ## 🌐 Socials:
